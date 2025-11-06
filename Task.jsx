@@ -1,11 +1,11 @@
 import React from 'react';
 const cardStyle={
-  backgroundColor:'#f7ba74ff',
+  backgroundColor:'#f7f574cc',
   borderRadius:'15px',
   boxShadow:'0 4px 15px rgba(0, 0, 0, 0.1)',
   padding:'30px',
   textAlign:'center',
-  width:'250px',
+  width:'250px',    
   transition:'transform 0.3s ease',
 };
 const imgStyle={
